@@ -1,4 +1,4 @@
-from Question import Question
+from Question import Question # Import question class from Question.py
 
 question_prompts = [
 	"Q1: What characteristic of secure communication is asymmetric encryption not able to achieve?\n(a) Confidentiality\n(b) Integrity\n(c) Authentication\n(d) None - it can achieve all the above characteristics when implemented well\n\n",
